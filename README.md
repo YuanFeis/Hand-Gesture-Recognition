@@ -44,3 +44,13 @@ After training our model on a GPU in Google Cloud, we downloaded the trained mod
 2. Run `python hanuman.py --config "gesture_control_config.cfg"`.
 3. Wait for the program to load. Open a YouTube video in your browser and click anywhere on the page to focus.
 4. Now, perform any of the gestures specified in the mapping.ini file to control YouTube.
+
+
+# Credits
+1. https://20bn.com/datasets/jester
+2. https://github.com/saetlan/20BN-jester
+3. https://github.com/eleow/Gesture-Recognition-and-Control
+4. https://github.com/patrickjohncyh/ibm-waldo/
+
+# License
+Distributed under the MIT License.
